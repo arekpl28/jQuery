@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section {
+  height: 80vh;
+}
+
+section.s1 {
+  background-color: #ddd;
+}
+
+section.s2 {
+  background-color: #ccc;
+}
+
+section.s3 {
+  background-color: #bbb;
+}
+
+section.s4 {
+  background-color: #aaa;
+}
+
+div.info {
+  position: fixed;
+  left: 0;
+  bottom: -75px;
+  height: 70px;
+  width: 100%;
+  box-shadow: 0 0 3px 3px gray;
+  background-color: #888;
+  font-size: 30px;
+  line-height: 70px;
+  text-align: center;
+  transition: 0.8s;
+}
+
+.info.active {
+  bottom: 0;
+}
