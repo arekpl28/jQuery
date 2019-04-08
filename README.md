@@ -12,3 +12,6 @@ https://arekpl28.github.io/jQuery/03%20Change%20background%20and%20text/index.ht
 
 ### 04 Pop up
 https://arekpl28.github.io/jQuery/04%20Pop%20up/index.html
+
+### 05 Menu that shifts page
+https://arekpl28.github.io/jQuery/05%20Menu%20that%20shifts%20page/index.html
