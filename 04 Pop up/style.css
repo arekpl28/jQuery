@@ -82,7 +82,7 @@ section.modal-wrap.active div.modal {
     font-size: 20px;
   }
 
-  section.modal-wrap div.modal {
+  section.modal-wrap.active div.modal {
     width: 90%;
     height: 90%;
   }
