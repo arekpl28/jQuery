@@ -18,9 +18,6 @@ https://arekpl28.github.io/jQuery/05%20Menu%20that%20shifts%20page/index.html
 
 ### 06 Strip that appears after scrolling
 https://arekpl28.github.io/jQuery/06%20Strip%20that%20appears%20after%20scrolling/index.html
-<<<<<<< HEAD
 
 ### 07 Appearing elements after scrolling
 https://arekpl28.github.io/jQuery/07%20Appearing%20elements%20after%20scrolling/index.html
-=======
->>>>>>> ed14846c35ad0e0b77f02e414444b1bbb1fe38e7
