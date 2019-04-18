@@ -21,3 +21,6 @@ https://arekpl28.github.io/jQuery/06%20Strip%20that%20appears%20after%20scrollin
 
 ### 07 Appearing elements after scrolling
 https://arekpl28.github.io/jQuery/07%20Appearing%20elements%20after%20scrolling/index.html
+
+### 08 Gallery with Lightbox
+https://arekpl28.github.io/jQuery/08%20Gallery%20with%20Lightbox/index.html
