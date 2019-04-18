@@ -24,3 +24,6 @@ https://arekpl28.github.io/jQuery/07%20Appearing%20elements%20after%20scrolling/
 
 ### 08 Gallery with Lightbox
 https://arekpl28.github.io/jQuery/08%20Gallery%20with%20Lightbox/index.html
+
+### 09 Scroll flexbox
+https://arekpl28.github.io/jQuery/09%20Scroll%20flexbox/index.html

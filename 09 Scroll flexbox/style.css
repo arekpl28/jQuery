@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+section {
+  width: 80%;
+  height: 100vh;
+  margin: 0 auto;
+}
+
+.s1 {
+  background-color: rgb(57, 40, 75);
+  height: 120vh;
+}
+
+.s2 {
+  background-color: green;
+  height: 90vh;
+}
+
+.s3 {
+  background-color: rgb(35, 35, 139);
+}
+
+.s4 {
+  background-color: rgb(88, 84, 84);
+  height: 140vh;
+}
+
+nav {
+  position: fixed;
+  top: 30%;
+  bottom: 30%;
+  left: 0;
+  width: 60px;
+}
+
+nav ul {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+li {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: #000;
+  transition: 0.3s;
+}
+
+.dot1 {
+  background-color: rgb(57, 40, 75);
+}
+
+.dot2 {
+  background-color: green;
+}
+
+.dot3 {
+  background-color: rgb(35, 35, 139);
+}
+
+.dot4 {
+  background-color: rgb(88, 84, 84);
+}
+
+.active {
+  box-shadow: 0 0 0 3px white, 0 0 0 6px red;
+}
